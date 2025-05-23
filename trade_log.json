@@ -1,0 +1,66 @@
+[
+  {
+    "date": "2025-05-22",
+    "round": 6,
+    "result": "TP1",
+    "entry": 3316.04,
+    "target": 3311.04,
+    "pips": 500
+  },
+  {
+    "date": "2025-05-22",
+    "round": 7,
+    "result": "TP1",
+    "entry": 3310.25,
+    "target": 3305.25,
+    "pips": 500
+  },
+  {
+    "date": "2025-05-22",
+    "round": 8,
+    "result": "SL",
+    "entry": 3307.2,
+    "target": 3312.2,
+    "pips": -500
+  },
+  {
+    "date": "2025-05-22",
+    "round": 9,
+    "result": "TP1",
+    "entry": 3309.49,
+    "target": 3314.49,
+    "pips": 500
+  },
+  {
+    "date": "2025-05-22",
+    "round": 11,
+    "result": "TP1",
+    "entry": 3313.01,
+    "target": 3308.01,
+    "pips": 500
+  },
+  {
+    "date": "2025-05-22",
+    "round": 12,
+    "result": "TP1",
+    "entry": 3312.11,
+    "target": 3307.11,
+    "pips": 500
+  },
+  {
+    "date": "2025-05-23",
+    "round": 3,
+    "result": "SL",
+    "entry": 3324.54,
+    "target": 3329.54,
+    "pips": -500
+  },
+  {
+    "date": "2025-05-23",
+    "round": 6,
+    "result": "TP1",
+    "entry": 3330.0,
+    "target": 3330.05,
+    "pips": 5
+  }
+]
